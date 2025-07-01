@@ -69,12 +69,3 @@ python main.py --help       # Show help information
 python main.py --version    # Show version information
 python main.py --check-deps # Check dependencies
 ```
-
-## License
-
-MIT License
-
-## Date
-
-July 2025
-#
